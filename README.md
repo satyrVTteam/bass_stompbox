@@ -18,8 +18,8 @@ Compilation by TD
 | Knob 5 | Flanger Lfo Frequency |
 | Knob 6 | Flanger Lfo Depth |
 | Footswitch 1 | Compressor ON |
-| Footswitch 2 | Flanger ON |
-| Footswitch 3 | Tone ON|
+| Footswitch 2 | Flanger+Tone ON |
+| Footswitch 3 |  |
 | Footswitch 4 |  |
 | Encoder Rotate | Flanger Dry Wet |
-| Encoder Press | Flanger Reset Dry Wet |
+
